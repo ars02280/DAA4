@@ -1,0 +1,7 @@
+target/
+out/
+.idea/
+commit_fast.sh
+.idea/
+commit_fast.sh
+commit_slowly.sh
